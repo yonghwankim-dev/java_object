@@ -1,4 +1,6 @@
-package com.ch2.movie;
+package com.ch2.movie.condition;
+
+import com.ch2.movie.domain.Screening;
 
 public class SequenceCondition implements DiscountCondition {
 	private final int sequence;

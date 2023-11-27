@@ -1,12 +1,14 @@
-package com.ch2.movie;
+package com.ch2.movie.domain;
 
 import java.time.Duration;
+
+import com.ch2.movie.policy.DiscountPolicy;
 
 public class Movie {
 	private final String title;
 	private final Duration runningTime;
 	private final Money fee;
-	private final DiscountPolicy discountPolicy;
+	private DiscountPolicy discountPolicy;
 
 	public Movie(String title, Duration runningTime, Money fee, DiscountPolicy discountPolicy) {
 		this.title = title;
@@ -21,5 +23,9 @@ public class Movie {
 
 	public Money calculateMovieFee(Screening screening) {
 		return fee.minus(discountPolicy.calculateDiscountAmount(screening));
+	}
+
+	public void changeDiscountPolicy(DiscountPolicy discountPolicy){
+		this.discountPolicy = discountPolicy;
 	}
 }

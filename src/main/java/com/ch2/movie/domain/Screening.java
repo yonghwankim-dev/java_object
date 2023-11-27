@@ -1,4 +1,4 @@
-package com.ch2.movie;
+package com.ch2.movie.domain;
 
 import java.time.LocalDateTime;
 

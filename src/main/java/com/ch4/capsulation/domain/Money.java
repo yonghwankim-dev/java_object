@@ -1,4 +1,4 @@
-package com.ch2.movie;
+package com.ch4.capsulation.domain;
 
 import java.math.BigDecimal;
 

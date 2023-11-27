@@ -1,4 +1,4 @@
-package com.ch2.movie;
+package com.ch2.movie.domain;
 
 public class Reservation {
 	private final Customer customer;

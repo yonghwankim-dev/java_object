@@ -1,6 +1,10 @@
-package com.ch2.movie;
+package com.ch2.movie.policy;
 
-public class AmountDiscountPolicy extends DiscountPolicy {
+import com.ch2.movie.condition.DiscountCondition;
+import com.ch2.movie.domain.Money;
+import com.ch2.movie.domain.Screening;
+
+public class AmountDiscountPolicy extends DefaultDiscountPolicy {
 
 	private final Money discountAmount;
 
