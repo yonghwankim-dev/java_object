@@ -1,6 +1,6 @@
 package com.ch5.movie.step05;
 
-import org.eternity.money.Money;
+import com.ch5.money.Money;
 
 public class ReservationAgency {
     public Reservation reserve(Screening screening, Customer customer,

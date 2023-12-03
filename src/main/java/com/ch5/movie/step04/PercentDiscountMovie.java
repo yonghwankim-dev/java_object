@@ -1,11 +1,13 @@
 package com.ch5.movie.step04;
 
-import org.eternity.money.Money;
+
 
 import java.time.Duration;
 
+import com.ch5.money.Money;
+
 public class PercentDiscountMovie extends Movie {
-    private double percent;
+    private final double percent;
 
     public PercentDiscountMovie(String title, Duration runningTime, Money fee, double percent,
                                 DiscountCondition... discountConditions) {

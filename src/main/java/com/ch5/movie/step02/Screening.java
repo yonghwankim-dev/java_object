@@ -1,8 +1,10 @@
 package com.ch5.movie.step02;
 
-import org.eternity.money.Money;
+
 
 import java.time.LocalDateTime;
+
+import com.ch5.money.Money;
 
 public class Screening {
     private Movie movie;

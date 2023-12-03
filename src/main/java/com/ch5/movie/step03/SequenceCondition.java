@@ -1,7 +1,7 @@
 package com.ch5.movie.step03;
 
 public class SequenceCondition implements DiscountCondition {
-    private int sequence;
+    private final int sequence;
 
     public SequenceCondition(int sequence) {
         this.sequence = sequence;

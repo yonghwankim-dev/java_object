@@ -1,9 +1,9 @@
 package com.ch5.movie.step03;
 
-import org.eternity.money.Money;
-
 import java.time.Duration;
 import java.util.List;
+
+import com.ch5.money.Money;
 
 public class Movie {
     private String title;

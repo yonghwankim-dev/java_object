@@ -1,21 +1,23 @@
 package com.ch5.movie.step02;
 
-import org.eternity.money.Money;
+
 
 import java.time.Duration;
 import java.util.List;
 
+import com.ch5.money.Money;
+
 public class Movie {
-    private String title;
-    private Duration runningTime;
-    private Money fee;
+    private final String title;
+    private final Duration runningTime;
+    private final Money fee;
 
     private MovieType movieType;
     private Money discountAmount;
     private double discountPercent;
 
-    private List<PeriodCondition> periodConditions;
-    private List<SequenceCondition> sequenceConditions;
+    private final List<PeriodCondition> periodConditions;
+    private final List<SequenceCondition> sequenceConditions;
 
     public Movie(String title, Duration runningTime, Money fee,
                  List<PeriodCondition> periodConditions, List<SequenceCondition> sequenceConditions) {

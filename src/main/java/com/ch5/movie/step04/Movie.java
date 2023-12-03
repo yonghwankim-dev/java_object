@@ -1,16 +1,16 @@
 package com.ch5.movie.step04;
 
-import org.eternity.money.Money;
-
 import java.time.Duration;
 import java.util.Arrays;
 import java.util.List;
 
+import com.ch5.money.Money;
+
 public abstract class Movie {
-    private String title;
-    private Duration runningTime;
-    private Money fee;
-    private List<DiscountCondition> discountConditions;
+    private final String title;
+    private final Duration runningTime;
+    private final Money fee;
+    private final List<DiscountCondition> discountConditions;
 
     public Movie(String title, Duration runningTime, Money fee, DiscountCondition... discountConditions) {
         this.title = title;

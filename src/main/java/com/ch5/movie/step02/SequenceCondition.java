@@ -1,7 +1,7 @@
 package com.ch5.movie.step02;
 
 public class SequenceCondition {
-    private int sequence;
+    private final int sequence;
 
     public SequenceCondition(int sequence) {
         this.sequence = sequence;

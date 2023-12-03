@@ -4,7 +4,7 @@ import java.time.DayOfWeek;
 import java.time.LocalTime;
 
 public class DiscountCondition {
-    private DiscountConditionType type;
+    private final DiscountConditionType type;
 
     private int sequence;
 
@@ -34,8 +34,8 @@ public class DiscountCondition {
 
     private boolean isSatisfiedByPeriod(Screening screening) {
         return screening.getWhenScreened().getDayOfWeek().equals(dayOfWeek) &&
-                startTime.compareTo(screening.getWhenScreened().toLocalTime()) <= 0 &&
-                endTime.compareTo(screening.getWhenScreened().toLocalTime()) >= 0;
+            !startTime.isAfter(screening.getWhenScreened().toLocalTime()) &&
+            !endTime.isBefore(screening.getWhenScreened().toLocalTime());
     }
 
     private boolean isSatisfiedBySequence(Screening screening) {
