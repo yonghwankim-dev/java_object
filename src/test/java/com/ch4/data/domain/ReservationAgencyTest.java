@@ -1,7 +1,5 @@
 package com.ch4.data.domain;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import java.math.BigDecimal;
 import java.time.DayOfWeek;
 import java.time.Duration;
@@ -12,6 +10,16 @@ import java.util.List;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import com.ch4.class01.step01.Customer;
+import com.ch4.class01.step01.DiscountCondition;
+import com.ch4.class01.step01.DiscountConditionType;
+import com.ch4.class01.step01.Money;
+import com.ch4.class01.step01.Movie;
+import com.ch4.class01.step01.MovieType;
+import com.ch4.class01.step01.Reservation;
+import com.ch4.class01.step01.ReservationAgency;
+import com.ch4.class01.step01.Screening;
 
 class ReservationAgencyTest {
 
