@@ -1,7 +1,6 @@
-package com.ch5.class01.step04;
+package com.ch8.class02.step01.domain;
 
 import java.math.BigDecimal;
-
 
 public class Money {
 	public static final Money ZERO = Money.wons(0);
@@ -39,12 +38,6 @@ public class Money {
 	public boolean isGreaterThanOrEqual(Money other){
 		return amount.compareTo(other.amount) >= 0;
 	}
-
-	public BigDecimal getAmount() {
-		return amount;
-	}
-
-
 
 	@Override
 	public String toString() {

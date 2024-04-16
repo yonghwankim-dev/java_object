@@ -5,146 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d1b8fe1-e3eb-468f-ab74-3ec2c269abaf" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step01/TicketSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step02/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step02/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step02/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step02/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step02/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step02/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step02/TicketSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step03/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step03/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step03/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step03/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step03/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step03/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch1/theater/step03/TicketSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class02/step01/AnyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class02/step01/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class02/step02/AnyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class02/step02/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/PeriodCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/SequenceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/DiscountCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/DiscountConditionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/PeriodCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/SequenceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/AmountDiscountMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/DiscountCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/DiscountConditionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/NoneDiscountMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/PercentDiscountMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/PeriodCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/SequenceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/class01/step01/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/class01/step01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/class01/step01/RecurringSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/class01/step02/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/class01/step02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/class01/step02/RecurringSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step01/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step01/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step01/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step01/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step01/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step01/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step01/TicketSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step02/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step02/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step02/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step02/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step02/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step02/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step02/TicketSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step03/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step03/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step03/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step03/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step03/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step03/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch6/theater/step03/TicketSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch6/event/step01/EventTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch6/event/step01/RecurringScheduleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/condition/DiscountCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/condition/PeriodCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/condition/SequenceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/domain/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/domain/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/domain/Screening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/policy/AmountDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/policy/DefaultDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/policy/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/policy/NoneDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class01/policy/PercentDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/condition/DiscountCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/condition/PeriodCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/condition/SequenceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/domain/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/domain/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/domain/Screening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/policy/AmountDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/policy/DefaultDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/policy/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/policy/NoneDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step01/policy/PercentDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/condition/DiscountCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/condition/PeriodCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/condition/SequenceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/domain/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/domain/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/domain/Screening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/policy/AmountDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/policy/DefaultDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/policy/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/policy/NoneDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/policy/OverlappedDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02/policy/PercentDiscountPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java_object.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java_object.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java_object.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java_object.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/DiscountCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/DiscountCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/DiscountConditionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/DiscountConditionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/Money.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/MovieType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/ReservationAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/ReservationAgency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/capsulation/domain/Screening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01/Screening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/DiscountCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/DiscountCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/DiscountConditionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/DiscountConditionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/Money.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/MovieType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/ReservationAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/ReservationAgency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch4/data/domain/Screening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch4/class01/step01/Screening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/money/Money.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step01/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step01/DiscountCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/DiscountCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step01/DiscountConditionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/DiscountConditionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step01/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step01/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/MovieType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step01/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step01/Screening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step01/Screening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step02/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step02/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step02/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/MovieType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step02/PeriodCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step02/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step02/Screening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Screening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step02/SequenceCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/DiscountCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/MovieType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/PeriodCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/Screening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/Screening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step03/SequenceCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/AmountDiscountMovie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/DiscountCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/NoneDiscountMovie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/PercentDiscountMovie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/PeriodCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/Screening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03/Screening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step04/SequenceCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/DiscountCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/DiscountConditionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/DiscountConditionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02/MovieType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/Reservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/ReservationAgency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/movie/step05/Screening.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ch4/data/domain/ReservationAgencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ch4/data/domain/ReservationAgencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04/Money.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +63,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -192,8 +112,8 @@
     "android.gradle.sync.needed": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/yonghwankim/Documents/study/java_object/src/main/java/com/ch5/class01/step04",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/yonghwankim/Documents/study/java_object/src/main/java/com/ch8/class02/step02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -212,11 +132,11 @@
       <recent name="com.ch2.movie" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/ch8/class02/step02" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ch8/class92" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ch8/class01" />
       <recent name="$PROJECT_DIR$/src/main/java/com/ch5/class01/step04" />
       <recent name="$PROJECT_DIR$/src/main/java/com/ch5/class01/step03" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/ch5/class01/step02" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/ch5/class01" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/ch4/class03/step01" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -235,46 +155,7 @@
       <recent name="com.ch4.capsulation.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.ch6.class01.step02.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ch5.class01.step04.Main" />
-      <module name="java_object.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ch5.class01.step04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ch5.class01.step02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ch5.class01.step02.Main" />
-      <module name="java_object.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ch5.class01.step02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ch5.class01.step03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ch5.class01.step03.Main" />
-      <module name="java_object.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ch5.class01.step03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.ch8.class02.step02.Main">
     <configuration name="com.ch6.class01.step01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ch6.class01.step01.Main" />
       <module name="java_object.main" />
@@ -301,6 +182,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ch8.class01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch8.class01.Main" />
+      <module name="java_object.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch8.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ch8.class02.step01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch8.class02.step01.Main" />
+      <module name="java_object.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch8.class02.step01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ch8.class02.step02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ch8.class02.step02.Main" />
+      <module name="java_object.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch8.class02.step02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaObjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="java_object.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.JavaObjectApplication" />
@@ -310,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ch8.class02.step02.Main" />
+        <item itemvalue="Application.com.ch8.class02.step01.Main" />
+        <item itemvalue="Application.com.ch8.class01.Main" />
         <item itemvalue="Application.com.ch6.class01.step02.Main" />
         <item itemvalue="Application.com.ch6.class01.step01.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.ch5.class01.step03.Main" />
-        <item itemvalue="Application.com.ch5.class01.step02.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -346,6 +266,7 @@
       <workItem from="1710458740472" duration="59000" />
       <workItem from="1712716669445" duration="3114000" />
       <workItem from="1712801348328" duration="10917000" />
+      <workItem from="1713235492957" duration="1832000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -425,17 +346,6 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ch1/theater/Theater.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

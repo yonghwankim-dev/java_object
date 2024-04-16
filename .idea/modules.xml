@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java_object.iml" filepath="$PROJECT_DIR$/java_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_object.iml" filepath="$PROJECT_DIR$/.idea/modules/java_object.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_object.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_object.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_object.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_object.test.iml" />
     </modules>
